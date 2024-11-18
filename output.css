@@ -553,3 +553,12 @@ video {
 [hidden]:where(:not([hidden="until-found"])) {
   display: none;
 }
+
+.hidden {
+  display: none;
+}
+
+body
+{
+  height: 1500px;
+}
